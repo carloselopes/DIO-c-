@@ -1,0 +1,14 @@
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\bin\Debug\net7.0\Curso DIO C#.exe
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\bin\Debug\net7.0\Curso DIO C#.deps.json
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\bin\Debug\net7.0\Curso DIO C#.runtimeconfig.json
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\bin\Debug\net7.0\Curso DIO C#.dll
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\bin\Debug\net7.0\Curso DIO C#.pdb
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\obj\Debug\net7.0\Curso DIO C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\obj\Debug\net7.0\Curso DIO C#.AssemblyInfoInputs.cache
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\obj\Debug\net7.0\Curso DIO C#.AssemblyInfo.cs
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\obj\Debug\net7.0\Curso DIO C#.csproj.CoreCompileInputs.cache
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\obj\Debug\net7.0\Curso DIO C#.dll
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\obj\Debug\net7.0\refint\Curso DIO C#.dll
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\obj\Debug\net7.0\Curso DIO C#.pdb
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\obj\Debug\net7.0\Curso DIO C#.genruntimeconfig.cache
+C:\Users\carlos.araujo\Desktop\Curso DIO C#\obj\Debug\net7.0\ref\Curso DIO C#.dll
